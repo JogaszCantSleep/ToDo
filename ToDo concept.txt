@@ -1,0 +1,11 @@
+ToDo list alkalmazás
+- elemek hizzáadása, törlése, checkbox hogy kész van-e
+- motiváló újragondolás
+
+Koncepciók:
+- napirendi pontok megjelölhető, hogy könnyű, közepes vagy nehéz
+- rpg style
+- valami reward rendszer 
+
+
+JAN 10
